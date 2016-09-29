@@ -59,9 +59,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-# scheme: Muse
+scheme: Muse
 #scheme: Mist
-scheme: Pisces
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -141,7 +141,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-avatar: /images/default_avatar.jpg
+#avatar:
 
 
 # Table Of Contents in the Sidebar
@@ -241,7 +241,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: zifeiinfo
+#duoshuo_shortname:
 
 # Disqus
 #disqus_shortname:
@@ -276,9 +276,9 @@ duoshuo_shortname: zifeiinfo
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
   ua_enable: true
-  admin_enable: true
-  user_id: 11890682
-  admin_nickname: 博主大人
+  admin_enable: false
+  user_id: 0
+  #admin_nickname: Author
 
 
 # Facebook SDK Support.
